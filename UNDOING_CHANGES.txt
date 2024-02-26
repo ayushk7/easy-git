@@ -1,0 +1,7 @@
+UNDOING_CHANGES
+
+git reset <file>: Remove a file from the staging area.
+git revert <commit>: Create a new commit that undoes changes from a specific commit.
+git checkout -b <branch>: Create and switch to a new branch.
+git reset: Reset the staging area to match the most recent commit.
+git reset --hard: Reset both the staging area and working directory to match the most recent commit.

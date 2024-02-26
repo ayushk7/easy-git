@@ -1,0 +1,5 @@
+GIT_BRANCHES
+
+git branch: List all branches in the repository.
+git checkout -b <branch>: Create and switch to a new branch.
+git merge <branch>: Merge a specified branch into the current branch.

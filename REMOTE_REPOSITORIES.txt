@@ -1,0 +1,5 @@
+REMOTE_REPOSITORIES
+
+git push <remote> <branch>: Push local commits to a remote repository.
+git fetch <remote> <branch>: Fetch specific branch from a remote repository.
+git remote add <name> <url>: Add a new connection to a remote repository.

@@ -1,0 +1,4 @@
+GIT_REBASE
+
+git rebase <base>: Rebase the current branch onto a specified base.
+git rebase -i <base>: Interactively rebase the current branch onto a base.

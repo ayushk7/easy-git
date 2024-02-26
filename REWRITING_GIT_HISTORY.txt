@@ -1,0 +1,5 @@
+REWRITING_GIT_HISTORY
+
+git commit --amend: Amend the last commit with staged changes.
+git rebase <base>: Rebase the current branch onto a specified base.
+git rebase -i <base>: Interactively rebase the current branch onto a base.

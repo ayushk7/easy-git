@@ -1,0 +1,6 @@
+GIT_RESET
+
+git reset: Reset the staging area to match the most recent commit.
+git reset --hard: Reset both the staging area and working directory to match the most recent commit.
+git reset <commit>: Move the current branch tip backward to a specific commit.
+git reset --hard <commit>: Reset both the staging area and working directory to match a specific commit.

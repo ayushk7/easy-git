@@ -1,0 +1,4 @@
+GIT_PULL
+
+git pull <remote>: Fetch the remote's copy of the current branch and merge it into the local copy.
+git pull --rebase <remote>: Fetch the remote's copy of the current branch and rebase it into the local copy.

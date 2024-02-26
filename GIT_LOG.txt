@@ -1,0 +1,5 @@
+GIT_LOG
+
+git log: Display the commit history.
+git log --oneline: Condense each commit to a single line.
+git log --stat: Display the full diff of each commit.

@@ -1,0 +1,7 @@
+GIT_CONFIG
+
+git config --global user.name <name>: Set global username for Git commits.
+git config --global user.email <email>: Set global email for Git commits.
+git config --global alias.<alias-name> <git-command>: Create an alias for a Git command.
+git config --system core.editor <editor>: Set the text editor used by Git commands for all users on the machine.
+git config --global --edit: Open the global configuration file for manual editing.

@@ -1,0 +1,6 @@
+GIT_PUSH
+
+git push <remote> <branch>: Push local commits to a remote repository.
+git push <remote> --force: Force push, even if it results in a non-fast-forward merge.
+git push <remote> --all: Push all local branches to the specified remote.
+git push <remote> --tags: Push all local tags to the remote repository.

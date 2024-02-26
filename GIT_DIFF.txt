@@ -1,0 +1,5 @@
+GIT_DIFF
+
+git diff: Show unstaged changes between the index and working directory.
+git diff HEAD: Show difference between the working directory and last commit.
+git diff --cached: Show difference between staged changes and last commit.
